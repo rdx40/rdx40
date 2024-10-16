@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ivanjaison@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1362zrFmedr5wExi0GiXcoCGt0MrGrWsL/view?usp=sharing](https://drive.google.com/file/d/1362zrFmedr5wExi0GiXcoCGt0MrGrWsL/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1362zrFmedr5wExi0GiXcoCGt0MrGrWsL/view?usp=sharing)
 
 - ⚡ Fun fact **i love movies and learning new technologies**
 
