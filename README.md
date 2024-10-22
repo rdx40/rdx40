@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ivan</h1>
-<h3 align="center">an aspiring data engineer</h3>
+<h3 align="center">trying to learn something new everyday</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdx40&label=Profile%20views&color=0e75b6&style=flat" alt="rdx40" /> </p>
+
 
 - 🔭 I’m currently working on [flask, ml models](https://github.com/rdx40/FlaskProjects)
 
