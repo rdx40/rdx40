@@ -31,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdx40&show_icons=true&locale=en&layout=compact" alt="rdx40" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdx40&show_icons=true&locale=en" alt="rdx40" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdx40&" alt="rdx40" /></p>
