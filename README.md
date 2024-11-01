@@ -7,9 +7,7 @@
                                                                                         
  - 🔭 I’m currently working on [flask, ml models](https://github.com/rdx40/FlaskProjects)
 
-- 🌱 I’m currently learning **Machine Learning Algorithms, Flask(ORM)**
-
-- 🤝 I’m looking for help with **Object Relational Mapping**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
 - 💬 Ask me about **flask, ml models**
 
