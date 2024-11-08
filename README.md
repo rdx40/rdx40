@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ivan</h1>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={omarlittle180}" alt="LeetCode Badges"/>
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=omarlittle180&animated=true)
 <h4 align="center">trying to learn something new everyday</h4>
 
 
