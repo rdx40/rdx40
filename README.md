@@ -4,6 +4,8 @@
 
 
 
+
+![](https://komarev.com/ghpvc/?username=rdx40)
                                                                                         
  - 🔭 I’m currently working on [flask, ml models](https://github.com/rdx40/FlaskProjects)
 
