@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ivan</h1>
+<h1 align="center">hellon</h1>
 <h4 align="center">trying to learn something new everyday</h4>
 
 
@@ -7,17 +7,17 @@
 
 ![](https://komarev.com/ghpvc/?username=rdx40)
                                                                                         
- - 🔭 I’m currently working on [flask, ml models](https://github.com/rdx40/FlaskProjects)
+ - 🔭 I’m currently working on [spring, ml models]
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Spring and Postgres**
 
-- 💬 Ask me about **flask, ml models**
+- 💬 Ask me about **flask**
 
 - 📫 How to reach me **ivanjaison@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1362zrFmedr5wExi0GiXcoCGt0MrGrWsL/view?usp=sharing)
 
-- ⚡ Fun fact **i love movies and learning new technologies**
+- ⚡ ps: **i love movies and learning new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
