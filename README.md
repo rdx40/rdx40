@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rdx40)
                                                                                         
- - 🔭 I’m currently working on [spring, ml models]
+ - 🔭 I’m currently working on myself 😞💪
 
 - 🌱 I’m currently learning **Spring and Postgres**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1362zrFmedr5wExi0GiXcoCGt0MrGrWsL/view?usp=sharing)
 
-- ⚡ ps: **i love movies and learning new technologies**
+- ⚡ ps: **i love god and kanye**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
