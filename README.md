@@ -3,7 +3,7 @@
   "metadata": {
     "title": "Ivan Json?",
     "description": "me",
-    "last_updated": "ISO_TIMESTAMP"
+    "last_updated": "$ISO_TIMESTAMP"
   },
   "skills": {
     "languages": {
