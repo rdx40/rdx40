@@ -25,4 +25,4 @@
 
 # Hehe i see yall weirdos
 
-[![](https://visitcount.itsvg.in/api?id=rdx40&icon=0&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rdx40&icon=0&color=0)](https://visitcount.itsvg.in)
