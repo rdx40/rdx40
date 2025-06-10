@@ -1,0 +1,22 @@
+name: Update README with timestamp
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update timestamp
+        run: |
+          ISO_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          sed -i "s/ISO_TIMESTAMP/$ISO_DATE/g" README.md
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git commit -m "Update timestamp" || echo "No changes to commit"
+          git push
