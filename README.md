@@ -29,6 +29,8 @@
 <br>
 ![project euler](https://projecteuler.net/profile/rdx40.png)
 <br>
-![LC Stats](https://leetcode-stats-api.herokuapp.com/TU49cway6M)
+![LeetCode](https://leetcard.jacoblin.cool/TU49cway6M)
 <br>
 ![Codeforces](https://cf.leed.at?id=omarlittle)
+
+---
