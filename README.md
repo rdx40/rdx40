@@ -28,4 +28,7 @@
 (gotta start somewhere)
 <br>
 ![project euler](https://projecteuler.net/profile/rdx40.png)
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/TU49cway6M)
+<br>
+![LC Stats](https://leetcode-stats-api.herokuapp.com/TU49cway6M)
+<br>
+![Codeforces](https://cf.leed.at?id=omarlittle)
