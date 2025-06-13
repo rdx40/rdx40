@@ -28,3 +28,5 @@
 (gotta start somewhere)
 <br>
 ![project euler](https://projecteuler.net/profile/rdx40.png)
+![LeetCode Stats]([https://leetcard.jacoblin.cool/your_username](https://leetcode-stats-api.herokuapp.com/TU49cway6M))
+
