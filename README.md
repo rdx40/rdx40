@@ -12,7 +12,7 @@
     "cloud": ["Azure", "Docker", "Kubernetes"],
     "frameworks": {
       "backend": ["Flask", "FastAPI", "Django"],
-      "frontend": ["Vue.js"]
+      "frontend": ["Vue.js", "React.js", "Next.js"]
     },
     "databases": {
       "sql": ["MySQL", "PostgreSQL"],
