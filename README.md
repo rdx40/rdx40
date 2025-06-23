@@ -36,7 +36,3 @@
 ![Codeforces](https://cf.leed.at?id=omarlittle)
 
 ---
-
-Report Card :(
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdx40&label=Profile%20views&color=0e75b6&style=flat" alt="rdx40" /> </p>
