@@ -11,7 +11,7 @@
     },
     "cloud": ["Azure", "Docker", "Kubernetes"],
     "frameworks": {
-      "backend": ["Flask", "FastAPI", "Django"],
+      "backend": ["Flask", "FastAPI", "Django", ".NET"],
       "frontend": ["Vue.js", "React.js", "Next.js"]
     },
     "databases": {
@@ -19,7 +19,7 @@
       "nosql": ["SQLite", "CouchDB"]
     },
     "ai_ml": ["scikit-learn", "PyTorch"],
-    "devops": ["Git", "GitHub", "CI/CD"]
+    "devops": ["Git", "GitHub", "CI/CD","Azure DevOps"]
   }
 }
 ```
