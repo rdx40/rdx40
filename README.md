@@ -36,4 +36,4 @@
 ![Codeforces](https://cf.leed.at?id=omarlittle)
 
 ---
-<img align="center" src="https://komarev.com/ghpvc/?username=rdx40&style=flat-square&color=b57614&label=views"/>
+<img align="center" src="https://komarev.com/ghpvc/?username=rdx40&style=flat-square&color=94f4b1&label=views"/>
