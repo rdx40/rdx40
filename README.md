@@ -36,3 +36,7 @@
 ![Codeforces](https://cf.leed.at?id=omarlittle)
 
 ---
+
+<img align="right" src="https://komarev.com/ghpvc/?username=rdx40&style=flat-square&color=b57614&label=views" height="25px"/>
+
+---
