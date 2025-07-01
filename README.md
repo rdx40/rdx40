@@ -6,18 +6,18 @@
   },
   "skills": {
     "languages": {
-      "decent": ["Python", "C", "Bash", "Markdown"],
-      "mid": ["Java", "JavaScript", "Go", "C#"]
+      "programming": ["Python", "C/C++", "Java", "Go"],
+      "misc": ["Bash", "Markdown", "C#"]
     },
-    "cloud": ["Azure", "Docker", "Kubernetes"],
     "frameworks": {
       "backend": ["Flask", "FastAPI", "Django", ".NET"],
-      "frontend": ["Vue.js", "React.js", "Next.js"]
+      "frontend": ["Vue.js", "Next.js"]
     },
     "databases": {
       "sql": ["MySQL", "PostgreSQL"],
       "nosql": ["SQLite", "CouchDB"]
     },
+    "cloud": ["Azure", "Docker", "Kubernetes"],
     "ai_ml": ["scikit-learn", "PyTorch"],
     "devops": ["Git", "GitHub", "CI/CD","Azure DevOps"]
   }
