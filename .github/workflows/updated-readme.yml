@@ -15,13 +15,22 @@ jobs:
 
       - name: Get random quote and update README
         run: |
+          # Read the existing README
+          README_CONTENT=$(cat README.md)
+          
+          # Get a random quote
           QUOTE=$(shuf -n 1 quotes.txt)
-          echo "# 🕶️ Sopranos Quote of the Day" > README.md
-          echo "" >> README.md
-          echo "> $QUOTE" >> README.md
+          
+          # Create the quote section
+          QUOTE_SECTION=$'\n\n## 🕶️ Sopranos Quote of the Day\n\n> '"$QUOTE"
+          
+          # Replace the placeholder with the new quote section
+          UPDATED_README="${README_CONTENT/<!-- QUOTE_PLACEHOLDER -->/$QUOTE_SECTION}"
+          
+          # Write back to README
+          echo "$UPDATED_README" > README.md
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Daily quote update"
-
