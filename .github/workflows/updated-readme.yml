@@ -20,11 +20,8 @@ jobs:
           echo "" >> README.md
           echo "> $QUOTE" >> README.md
 
-      - name: Commit and push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Daily quote update" || echo "No changes to commit"
-          git push
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Daily quote update"
 
