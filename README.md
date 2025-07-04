@@ -26,4 +26,8 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=rdx40&style=flat-square&color=94f4b1&label=views"/>
 
 
-<!-- QUOTE_PLACEHOLDER -->
+
+
+## 🕶️ Sopranos Quote of the Day
+
+> "I wish the Lord would take me now."
