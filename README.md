@@ -2,7 +2,7 @@
 {
   "metadata": {
     "title": "ivan json? madathil",
-    "description": "me"
+    "description": ["Backend Dev", "DevOps", "Data Engineering"]
   },
   "skills": {
     "languages": {
