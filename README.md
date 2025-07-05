@@ -23,10 +23,6 @@
   }
 }
 ```
-<img align="center" src="https://komarev.com/ghpvc/?username=rdx40&style=flat-square&color=94f4b1&label=views"/>
-
-
-
 
 ## 🕶️ Sopranos Quote of the Day
 
