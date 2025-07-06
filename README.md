@@ -23,7 +23,3 @@
   }
 }
 ```
-
-## 🕶️ Sopranos Quote of the Day
-
-> "I wish the Lord would take me now."
